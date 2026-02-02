@@ -2,6 +2,13 @@
 
 This repository contains a collection of academic projects developed during my studies, covering machine learning, deep learning, and signal/image processing.
 
+## Featured Project
+
+For a larger, production-style project, see:
+
+**NLP Review Analysis Pipeline**  
+https://github.com/cosovicaleksa/nlp-review-project
+
 ## Projects
 
 **Heart Disease Classification**  
