@@ -1,0 +1,1 @@
+In this project, I developed an algorithm to improve the quality of X-ray images by removing structured noise (grid artifacts) caused by the use of older X-ray machines with modern high-resolution detectors. 
